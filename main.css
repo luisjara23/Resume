@@ -1,0 +1,14 @@
+body {
+    color: black;
+    background: white;
+  }
+  h1{
+  font-family: "Gill Sans", sans-serif;
+    color: red;
+  }
+  h2{
+  font-family: "Gill Sans", sans-serif;
+  }
+  ul {
+      border: 2px solid red;
+      color: black;
